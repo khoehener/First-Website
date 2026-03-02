@@ -3,7 +3,7 @@ title = 'Step 1: Prerequisites'
 weight = 1
 +++
 
-Before we begin, make sure you have the following tools installed on your system.
+Before we begin, make sure you have the following tools installed on your system. hello!
 
 ## Git
 
